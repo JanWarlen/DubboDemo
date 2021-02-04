@@ -5,5 +5,5 @@ package com.janwarlen.service;
  * @since 2021/2/1 11:33
  */
 public interface DemoDubboService {
-    public String demo();
+    String demo();
 }
